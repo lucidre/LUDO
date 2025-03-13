@@ -1,16 +1,19 @@
-# ludo
+ 
+# LUDO: A Flutter Multiplayer Dice Game
+Welcome to the LUDO project! 🎲📱
 
-A new Flutter project.
-
+## Overview
+LUDO is a classic four-player dice game that brings nostalgia and fun to you. This project demonstrates how to build a Ludo game using Flutter, Google’s UI toolkit for creating natively compiled applications.
+ 
 ## Getting Started
+To get started with this project, clone the repository and install the necessary dependencies.
 
-This project is a starting point for a Flutter application.
+## Video Walkthrough
+For a detailed walkthrough of the project, check out the video tutorial on YouTube. The video showcases the result of the codes. You can watch the video here.
+[![Watch the video](https://img.youtube.com/vi/vbHjMWg8k4I/maxresdefault.jpg)](https://youtu.be/vbHjMWg8k4I)
 
-A few resources to get you started if this is your first Flutter project:
+## Contributing
+Feel free to fork the project, create a feature branch, and send us a pull request!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+This project is licensed under the terms of the MIT license.
